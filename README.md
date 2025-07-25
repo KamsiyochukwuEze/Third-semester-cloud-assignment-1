@@ -13,7 +13,7 @@
 <li> 🔗S3 static site link: http://cloudlaunch-site-bucket.s3-website-eu-west-1.amazonaws.com</li></br>
 <li> 🔗CloudFront Distribution Domain URL: https://dy3pjfue69g78.cloudfront.net/ </li> </br>
 
-### 👤 Created an IAM user named "cloudlaunch-user" and used JSON policy document to define and attach custom IAM policy. 
+### 👤 Created an IAM user named "cloudlaunch-user" and used JSON policy document to define and attached custom IAM policy. 
 
  ``` JSON
 {
@@ -109,7 +109,9 @@
 
 ### 👤 IAM Credentials:
 <li>Cosole URL: https://cloudkamsi.signin.aws.amazon.com/console</li>
-<li>Account Alias:cloudkamsi </li>
+<li>Account Alias: cloudkamsi </li>
+<li>Please refer to cloudlaunch-user_credentials.csv for IAM password </li>
+
 
 
 
